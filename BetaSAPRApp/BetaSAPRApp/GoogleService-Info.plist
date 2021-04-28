@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>205538215340-8srrvjorg3nhe23v1rdt3fqufr1sjrr9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.205538215340-8srrvjorg3nhe23v1rdt3fqufr1sjrr9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>205538215340-ufh4foujfn61cik608cf8v73o6m8m8pn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb5l-Fq6J56yQuCPQH88RmR8s1ofWLYjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>205538215340</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>USNA.BetaSAPRApp</string>
+	<key>PROJECT_ID</key>
+	<string>usna-sapr-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>usna-sapr-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:205538215340:ios:b6f44b19753a5dc4c5e609</string>
+	<key>DATABASE_URL</key>
+	<string>https://usna-sapr-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
